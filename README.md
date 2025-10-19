@@ -12,6 +12,7 @@ This repository contains implementations of various sorting algorithms in multip
 ## Languages
 - **[C++](https://github.com/OMar-Adelll/Sorting_Algorithms/tree/main/C%2B%2B)**: Implementations of sorting algorithms in C++.
 - **[C](https://github.com/OMar-Adelll/Sorting_Algorithms/tree/main/C)**: Implementations of sorting algorithms in C.
+- **[C](https://github.com/OMar-Adelll/Sorting_Algorithms/tree/main/Python)**: Implementations of sorting algorithms in python.
 - *Other Languages*: Coming soon!
 
 ## Visualization of Sorting Algorithms
