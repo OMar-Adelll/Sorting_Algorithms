@@ -9,12 +9,20 @@ This repository contains implementations of various sorting algorithms in multip
 - Merge Sort
 - Quick Sort
 
+---- 
+
 ## Languages
 - **[C++](https://github.com/OMar-Adelll/Sorting_Algorithms/tree/main/C%2B%2B)**: Implementations of sorting algorithms in C++.
 - **[C](https://github.com/OMar-Adelll/Sorting_Algorithms/tree/main/C)**: Implementations of sorting algorithms in C.
 - **[Python](https://github.com/OMar-Adelll/Sorting_Algorithms/tree/main/Python)**: Implementations of sorting algorithms in python.
 - **[Java](https://github.com/OMar-Adelll/Sorting_Algorithms/tree/main/Java)**: Implementations of sorting algorithms in Java.
 - *Other Languages*: Coming soon!
+
+----
+
+  ## Time Complexity
+<img width="798" height="341" alt="image" src="https://github.com/user-attachments/assets/cfaebd27-7e14-4da6-9f3e-992c4ea1e69f" name="OMarAdell"/>
+
 
 ## Visualization of Sorting Algorithms
 To better understand how sorting algorithms work, explore these visualization tools and resources:
